@@ -6,7 +6,7 @@ spring:
     name: leandro.cahuana
   data:
     mongodb:
-      database: nosql
+      database: 04_LeandroCahuana
       uri: mongodb+srv://leandroCahuana:9Zcm1M0gaJSWnuoa@cluster0.3s94j8f.mongodb.net/?appName=Cluster0
 
 springdoc:
